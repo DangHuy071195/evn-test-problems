@@ -1,0 +1,14 @@
+{
+  "name": "evn-test-problems",
+  "version": "1.0.0",
+  "description": "EVN Test Problems - 369 Game and Parentheses Typo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "problem1": "node problem1_369_replit.js",
+    "problem2": "node problem2_typo_replit.js"
+  },
+  "keywords": ["algorithms", "competitive-programming"],
+  "author": "",
+  "license": "ISC"
+}
